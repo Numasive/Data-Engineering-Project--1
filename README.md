@@ -1,11 +1,11 @@
 # Data-Engineering-Project--1
 
-Data Engineering Project
+# Data Engineering Project
 
-Data cleaning of all the tables in python
-Data sanitization of all the tables in python
-Data modelling in drawio
-Data insertion into MySql
+ - Data cleaning of all the tables in python
+ - Data sanitization of all the tables in python
+ - Data modelling in drawio
+ - Data insertion into MySql
 
 Data set used; 
 Wealth Country Data 
